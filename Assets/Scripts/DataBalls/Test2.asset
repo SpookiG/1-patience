@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 36c6f6b08abc82a45ae45043711d5da6, type: 3}
+  m_Name: Test2
+  m_EditorClassIdentifier: 
+  DialoguePanelPrefab: {fileID: 4313200002005155234, guid: d76af1d8296c4d14fb2e8af93f095468,
+    type: 3}
+  BlabNoises:
+  - {fileID: 8300000, guid: 31122ca72c3630d44a87193755cd8d86, type: 3}
+  SlamNoises:
+  - {fileID: 8300000, guid: f661ce86a25010f43a02aaa79f8e4e6d, type: 3}

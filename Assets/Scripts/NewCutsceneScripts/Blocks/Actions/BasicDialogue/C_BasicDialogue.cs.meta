@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 46dd3fa766d46dd409629e7d01b6fd8a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CutsceneCanvas: {instanceID: 0}
+  - SpeakerInfo: {fileID: 11400000, guid: 5387dfd9826bdf547bb6ae136ecf5ed9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

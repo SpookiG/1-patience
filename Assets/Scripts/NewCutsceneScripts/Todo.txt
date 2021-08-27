@@ -1,0 +1,58 @@
+Last todo!
+
+
+Make public!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sounds:
+    night crickets              https://freesound.org/people/InspectorJ/sounds/352514/
+    fire noises                 https://freesound.org/people/CaganCelik/sounds/433783/
+    group noises                https://freesound.org/people/guyburns/sounds/434596/
+    car noises                  https://freesound.org/people/Moulaythami/sounds/541707/
+    hilly wind noises           https://freesound.org/people/felix.blume/sounds/146272/
+    dog woof                    https://freesound.org/people/lupalenzuela/sounds/421810/
+    morning bird chirps         https://freesound.org/people/Andy_Gardner/sounds/346529/
+    Lamp switch sount           https://freesound.org/people/adriann/sounds/440265/
+             
+
+music:
+    camp guitar                 https://freesound.org/people/ValentinSosnitskiy/sounds/234354/
+    alone guitar (lighter)      https://freesound.org/people/Garuda1982/sounds/523825/
+    lamp drone                  https://patriciataxxon.bandcamp.com/track/beast
+    lamp drone light touches    https://patriciataxxon.bandcamp.com/track/beast
+
+
+
+
+
+Get general script in order (Thursday)
+
+I probably really do need a sound fade on start/stop looping hmm (Saturday)
+Configure the damn thing (Saturday)
+
+
+
+
+
+
+
+
+WaitFor (wait for all WaitFor blocks of the same tag to be reached)??
+Extended move dialogue panels / re-adjust positions
+
+Basic Dialogue: considerations for streamlining the configuration
+    Decouple moveRect from BasicDialogue?
+    Maybe a MatchRectPos?
